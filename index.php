@@ -1,10 +1,10 @@
-
+<!----- INCLUDE HEAD SCRIPT --->
 <?php include_once 'includes/head.php';?>
     <body>
         <div class="wrapper">
 
             
-
+            <!------- NAVIGATION INCLUDE ---->
             <?php include_once 'includes/nav.php';?>
            
            <div class="login-div">
@@ -37,9 +37,9 @@
                    </div>
                </div> <!-- body -->
                
-               <div class="modal-footer"></div> 
+               <div class="modal-footer"></div> <!--- modal footer --->
               
-           </div> 
+           </div> <!-- login div -->
            <div class="clear">&nbsp;</div>
            
           
