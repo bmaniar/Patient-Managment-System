@@ -1,7 +1,7 @@
 
 function doLogin(){
-    var username = $('#username').val(); // declare username
-    var password = $('#password').val(); // declare password
+    var username = $('#username').val();
+    var password = $('#password').val();
     var dataString = 'username=' +username+ '&password=' +password+ '&page=login';
     
 	if(username === ""){
