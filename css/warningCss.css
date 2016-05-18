@@ -1,0 +1,26 @@
+.info, .success, .warning, .error, .validation {
+border: 1px solid;
+width: 92%;
+margin: 10px 4px;
+padding:15px 10px 15px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+}
+
+.success {
+color: #3c763d;
+background-color: #dff0d8;
+background-image:url('../img/success.png');
+border-color:#d6e9c6;
+border-radius: 4px;
+}
+
+.error {
+color: #a94442;
+background-color: #f2dede;
+background-image: url('../img/warning.png');
+border-color:#ebccd1;
+border-radius: 4px;
+}
+
+

@@ -1,0 +1,54 @@
+@charset "utf-8";
+body {
+	background-color: #800000 !important;
+}
+.wrapper{
+	background:#FFF;
+	margin:auto;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+	width:960px;
+	margin-top:20px;}
+.login-div{
+	margin:auto;
+	width:500px;
+	margin-top:60px;
+	box-shadow:0px 0px 7px grey;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+	margin-bottom:60px;}
+.label{ font-size:10px !important;}
+
+.divpop{
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+	 width:817px;
+	 background:#EEE; 
+	 margin:auto;
+	 box-shadow:0px 0px 7px grey;}
+.tbl{
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+	
+	width:900px; margin:auto; margin-bottom:30px;}
+.div_view{
+	overflow:scroll;
+	overflow-x:hidden;
+    overflow-y:scroll;
+	height:400px;
+	}
+	.divhead{
+	overflow:scroll;
+	overflow-x:hidden;
+        overflow-y:scroll;
+	height:40px;
+	}
+        
+        
+        .clear{
+            clear: both;
+        }
